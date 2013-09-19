@@ -31,11 +31,11 @@ The card sort was conducted by Jessica Hay on September 12, 2013 between the tim
 
 ## Card sort results
 
-![Card sort 1 results](card-sort1.jpeg)
+![Card sort 1 results](card-sort-1.jpeg)
 
 *Card sort 1 by Alejandro*
 
-![Card sort 2 results](card-sort2.jpeg)
+![Card sort 2 results](card-sort-2.jpeg)
 
 *Card sort 2 by Caroline*
 
