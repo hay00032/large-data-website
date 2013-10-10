@@ -1,0 +1,161 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+a{
+	-o-transition: all 100ms linear;
+	-moz-transition: all 100ms linear;
+	-webkit-transition: all 100ms linear;
+	transition: all 100ms linear;
+	color:#56646F;
+	font-size: 13pt;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover,
+a:focus{
+	color: #000;
+}
+
+a:active{
+	color:#976609;
+}
+
+a:visited{
+	color: #9805a8;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #fff;
+	font-family: Helvetica;
+	color: #56646F;
+}
+
+header{
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+.logo-text{
+  text-align: center;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  font-size: 11pt;
+  color: #fff;
+  letter-spacing: 0.125em;
+  text-shadow: 2px 2px 3px #454445;
+
+}
+
+.leading-content{
+	background-image: url(../img/home-page.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	border: 1px solid black;
+}
+
+.logo{
+	max-width: 120px;
+}
+
+.background > img{
+	position: absolute;
+}
+.mobile-nav{
+	max-width: 30px;
+	float: right;
+	margin-top: 5.5em;
+}
+
+/*.mobile-nav:active{
+	display: none;
+	max-width: 30px;
+	float: right;
+	margin-top: 5.5em;
+}
+
+.mobile-nav-reversed{
+	visibility: hidden;
+}
+
+.mobile-nav-reversed:active{
+	display: inherit;
+	float: right;
+	max-width: 30px;
+	margin-top: 5.5em;
+	visibility: visible;
+}*/
+
+p{
+	color: #56646F;;
+}
+
+.nav{
+	list-style-type: none;
+	float: right;
+}
+
+ul{
+	margin-top:5.5em;
+}
+
+.nav li{
+	display: inline-block;
+	padding: 0.2em;
+}
+
+.flex-img{
+	width:100%;
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+
+.copy{
+	margin-top: 1em;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.copy{
+	text-align: center;
+}
+
+.nav{
+	float: right;
+}
+
+.back{
+	float: right;
+	margin-right: 2em;
+}
+
+.footer{
+
+}
+
+.copyright{
+	text-align:center;
+}
+
+@media only screen and (min-width: 60em) {
+	.back{
+		visibility:hidden;
+		display: none;
+	}
+}
