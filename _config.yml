@@ -1,0 +1,2 @@
+markdown: redcarpet
+exclude: ['ia', 'visual-style', 'README 2.md']
