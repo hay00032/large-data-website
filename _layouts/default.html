@@ -11,29 +11,31 @@
   <link href="http://fonts.googleapis.com/css?family=Coda" rel="stylesheet">
 </head>
 <body>
- <header>
-    <div class="grid">
-      <div class="unit unit-s-2-3 unit-m-2-3 unit-l-1-4">
-        <img src="img/logo.png" class="logo">
-      </div>
-        <div class="unit unit-s-1-4 unit-m-1-4 unit-l-hidden">
-        <img src="img/mobile-icon.png" class="mobile-nav">
-      </div>
-        <div class="unit unit-s-hidden unit-m-hidden unit-l-2-3">
-        <nav class="nav-wrapper">
-          <ul class="nav">
+<header>
+   <a href="http://placehold.it/140x140" class="logo"></a>
+</header>
+  <div class="unit-s-hidden single-line"></div>
+        <nav class="nav">
+          <ul class="unit unit-s-hidden unit-m-1 unit-l-1">
             <li><a href="about.html" class="nav-link nav-primary-link">About</a></li>
             <li><a href="health.html" class="nav-link nav-primary-link">Health</a></li>
             <li><a href="making-drinking.html" class="nav-link nav-primary-link">Making & Drinking</a></li>
           </ul>
+          <ul>
+            <li class="unit-m-hidden unit-l-hidden list-group-item list-group-item-inline">
+              <a href="#" class="icon-link">
+                  <i class="icon i-32 i-mobile-nav"></i>
+              </a>
+            </li>
+          </ul>
         </nav>
-        </div>
     </div>
-  </header>
+  <div class="divider-trim-bottom"></div>
 
   {{content}}
 
   <footer class="footer">
+  <div class="single-line"></div>
     <p class="copyright">© 2013 creativi-TEA</p>
     <nav>
         <img src="http://placehold.it/40x40" class="back" alt="back to top">
