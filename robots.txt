@@ -1,0 +1,10 @@
+# http://robotstxt.org
+# This file MUST be saved at the root of your domain
+# in the same location as your homepage index.html
+# http://domain.com/robots.txt
+
+Sitemap: http://creativitea.com/sitemap.xml
+
+# You can use your robots.txt to prevent Google from spidering things
+# User-Agent: *
+# Disallow: /img
