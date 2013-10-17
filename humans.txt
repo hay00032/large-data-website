@@ -1,0 +1,30 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Jessica Hay <hay00032@algonquinlive.com>
+Site: http://jessicahay.ca
+GitHub: https://github.com/hay00032
+Twitter: @2hayj
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+Icons from The Noun Project <http://dillons.ca/>
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Sublime Text 3 (with Vintageous)
+- Git + GitHub
+- Grunt.js
+- Markdown
+
+## Hosting
+
+- GitHub <http://github.com>
