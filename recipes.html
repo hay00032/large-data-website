@@ -1,0 +1,69 @@
+---
+layout: default
+title: Herbal Tea Recipes for the Creative Mind
+---
+
+<div class="unit unit-s-1 unit-m-1 history-title">
+	<p class="page-title">Recipes</p>
+	<img src="img/underline.png" class="underline">
+</div>
+  <div class="divider-trim-top"></div>
+
+<div class="slider">
+	<div class="unit unit-spacer-m unit-s-1 unit-m-1 unit-l-1-2">
+		<div class="recipes-img">
+			<img src="img/recipes-img.png" class="flex-img">
+		</div>
+	</div>
+		<div class="unit unit-s-hidden unit-m-hidden">
+			<img src="img/v-divider.png" class="v-divider">
+		</div>
+		<div class="copy unit unit-s-1 unit-m-1 unit-l-1-2-2">
+			<h2>Recipe of the Week</h2>
+			<img src="img/underline.png" class="underline">
+			<h3 class="recipe-name">Winter Blues Blend</h3>
+			<p class="recipe-body">Enjoy this recipe on those cool frosty mornings to warm yourself up before the day starts, or to just relax at home by the fireplace.</p>
+			<ul class="recipe-body">
+				<li>1oz. Bonicet</li>
+				<li>1oz. Ecinacea</li>
+				<li>2oz. Peppermint</li>
+			</ul>
+			<p class="recipe-body">Echinacea works as an immune system builder, boneset is
+great for congestion, aches and fever, and peppermint aids with any stomach complaints
+from the sinuses, a great overall “feel-good”.</p>
+		</div>
+	</div>
+</div>
+
+<div class="divider-trim-bottom"></div>
+
+<div class="copy">
+	<div class="grid grid-outdent">
+{% for recipe in site.pages %}
+	{% if recipe.category == "recipe" %}
+		<div class="unit unit-s-1 unit-m-1-3 unit-l-1-4">
+			<div class="unit-spacer-sides-s unit-spacer-sides-m unit-spacer-sides">
+				<img src="{{site.baseurl}}/img/{{recipe.image}}" class ="flex-img" alt="Photo of {{recipe.title}}">
+				<h3>{{recipe.title}}</h3>
+				<p class="recipe-summary">{{recipe.summary}}</p>
+				<a href="{{site.baseurl}}{{recipe.url}}" class="more">more...</a>
+			</div>
+		</div>
+{% endif %}
+{% endfor %}
+
+		<!--<div class="unit unit-s-1 unit-m-1-3 unit-l-1-4">
+			<div class="unit-spacer-sides-s unit-spacer-sides-m unit-spacer-sides">
+				<img src="http://placehold.it/120x120" class="flex-img" alt="">
+				<h3>Bronze Fennel Tea</h3>
+				<p>Stimulates the appetite and helps digestion</p>
+				<ul>
+					<li>1 tsp. crushed bronze fennel seeds</li>
+					<li>1c. boiling water (milk may be substituted but do not boil, bring to simmer</li>
+				</ul>
+			</div>
+		</div>-->
+	</div>
+</div>
+
+

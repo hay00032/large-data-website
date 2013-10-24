@@ -1,0 +1,53 @@
+.history{
+	margin: 1em;
+}
+.history-title{
+	text-align:center;
+	margin: 30px auto 15px auto;
+}
+
+.history-img{
+	margin: 0;
+	padding-left: 0;
+}
+
+.page-title{
+	letter-spacing: 5px;
+	font-size: 1.25em;
+	text-transform: uppercase;
+	margin:0;
+}
+
+.underline{
+	width: 200px;
+	height: 4px;
+
+}
+
+@media only screen and (min-width: 38em) and (max-width: 60em) {
+
+.v-divider{
+	height: 265px;
+	width: 6px;
+	margin-top: -12px;
+	padding-top: 0;
+}
+
+}
+
+@media only screen and (min-width: 60em) {
+.history-title{
+	letter-spacing: 4px;
+	font-size: 1.5em;
+	width: 1080px;
+}
+
+
+.v-divider{
+	height: 325px;
+	width: 6px;
+	margin-top: -12px;
+	padding-top: 0;
+}
+
+}

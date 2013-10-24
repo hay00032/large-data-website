@@ -1,0 +1,39 @@
+h2{
+	margin: 0;
+}
+
+.recipes{
+	margin: 0;
+
+}
+
+.recipe-name{
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
+}
+
+.recipe-body{
+	list-style-type:none;
+	margin-top: 0;
+}
+
+.recipe-summary{
+	min-height: 4em;
+}
+.more{
+	float: right;
+	padding-bottom: 1em;
+}
+
+@media only screen and (min-width: 38em) and (max-width: 60em) {
+
+.recipe-summary{
+	margin: 0;
+}
+
+.more{
+	float: none;
+	padding-bottom: 1em;
+}
+
+}

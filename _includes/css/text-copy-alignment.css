@@ -1,0 +1,58 @@
+.copy-no-margin{
+	margin:0;
+	padding: 0;
+}
+.copy{
+	margin-top: 1em;
+	/*padding-left: 1em;
+	padding-right: 1em;*/
+	text-align: center;
+}
+
+@media only screen and (max-width: 38em) {
+
+.copy-s-left{
+	text-align: left;
+}
+
+.copy-s-right{
+	text-align: right;
+}
+
+.copy-s-center{
+	text-align: center;
+}
+
+}
+
+@media only screen and (min-width: 38em) and (max-width: 60em) {
+
+.copy-m-left{
+	text-align: left;
+}
+
+.copy-m-right{
+	text-align: right;
+}
+
+.copy-m-center{
+	text-align: center;
+}
+
+}
+
+@media only screen and (min-width: 60em) {
+
+.copy-l-left{
+	text-align: left;
+}
+
+.copy-l-right{
+	text-align: right;
+}
+
+.copy-l-center{
+	text-align: center;
+}
+
+}

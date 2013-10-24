@@ -1,0 +1,26 @@
+.single-line {
+	margin: 10px 0;
+	width: 100%;
+	height: 9px;
+	background-image: url(../img/single-line.png);
+}
+
+.divider-trim-top{
+	width: 100%;
+	height: 16px;
+	display: block;
+	background-image: url(../img/dillons-trim-top.png);
+}
+
+.divider-trim-bottom{
+	width: 100%;
+	height: 16px;
+	display: block;
+	background-image: url(../img/dillons-trim-bottom.png);
+}
+
+.v-divider{
+	margin: 0 0.5em;
+	height: 100%;
+	padding: 0;
+}

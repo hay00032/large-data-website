@@ -6,40 +6,52 @@
   <meta name="handheldfriendly" content="true">
   <meta name="mobileoptimized" content="240">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link href="{{site.baseurl}}/css/general.css" rel="stylesheet">
-  <link href="{{site.baseurl}}/css/grid.css" rel="stylesheet">
+
+    <!--Facebook-->
+  <meta property="og:type" content="Herbal Teas for the Creative Mind">
+  <meta property="og:title" content="Creativi-Tea">
+  <meta property="og:url" content="http://creativi-TEA.html">
+  <meta property="og:image" content="http://creativi-tea/img/logo.png">
+  <meta property="og:description" content="Herbal Tea Resources for the Creative Mind">
+  <meta property="og:site_name" content="Creativi-TEA">
+  <!--Twitter-->
+  <meta property="twitter:card" content="Herbal Teas for the Creative Mind">
+  <meta property="twitter:title" content="Creativi-TEA">
+  <meta property="twitter:url" content="http://creativi-TEA.html">
+  <meta property="twitter:image" content="http://creativi-tea/img/logo.png">
+  <meta property="twitter:description" content="Herbal Tea Resources for the Creative Mind">
+
+  <link href="{{site.baseurl}}/css/herbal-tea.css" rel="stylesheet">
   <link href="http://fonts.googleapis.com/css?family=Coda" rel="stylesheet">
 </head>
 <body>
 <header>
-   <a href="http://placehold.it/140x140" class="logo"></a>
+    <a href="index.html">
+      <img src="{{site.baseurl}}/img/logo.png" class="flex-img" rel="Home"></a>
+    </a>
+  </div>
 </header>
   <div class="unit-s-hidden single-line"></div>
         <nav class="nav">
           <ul class="unit unit-s-hidden unit-m-1 unit-l-1">
-            <li><a href="about.html" class="nav-link nav-primary-link">About</a></li>
-            <li><a href="health.html" class="nav-link nav-primary-link">Health</a></li>
-            <li><a href="making-drinking.html" class="nav-link nav-primary-link">Making & Drinking</a></li>
+            <li><a href="{{site.baseurl}}/about.html" rel="" class="nav-link nav-primary-link">About</a></li>
+            <li><a href="{{site.baseurl}}/health.html" class="nav-link nav-primary-link">Health</a></li>
+            <li><a href="{{site.baseurl}}/recipes.html" class="nav-link nav-primary-link">Making & Drinking</a></li>
           </ul>
-          <ul>
-            <li class="unit-m-hidden unit-l-hidden list-group-item list-group-item-inline">
-              <a href="#" class="icon-link">
-                  <i class="icon i-32 i-mobile-nav"></i>
-              </a>
+          <ul class="list-group unit-m-hidden unit-l-hidden">
+            <li class="list-group-item-inline">
+              <a href="#" class="icon i-32 i-nav image-replacement"></a>
             </li>
           </ul>
         </nav>
     </div>
-  <div class="divider-trim-bottom"></div>
+  <div class="divider-trim-top"></div>
 
   {{content}}
 
   <footer class="footer">
   <div class="single-line"></div>
     <p class="copyright">© 2013 creativi-TEA</p>
-    <nav>
-        <img src="http://placehold.it/40x40" class="back" alt="back to top">
-    </nav>
   </footer>
 
 </body>
