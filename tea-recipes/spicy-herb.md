@@ -5,7 +5,7 @@ title: Sweet & Spicy Tea
 summary: A recipe for the senses. Perfect for anytime of year
 category: recipe
 ---
-<img src="/img/teacups8.png" class="img-resize">
+<img src="{{site.baseurl}}/img/teacups8.png" class="img-resize">
 
 <h3 class="recipe-center">Ingredients</h3>
 - 1/2c. dried lemon verbena

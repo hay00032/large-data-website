@@ -5,7 +5,7 @@ title: Raspberry Tea
 summary: Raspberry Tea with the energy effects of a black tea
 category: recipe
 ---
-<img src="/img/teacups7.png" class="img-resize">
+<img src="{{site.baseurl}}/img/teacups7.png" class="img-resize">
 
 <h3 class="recipe-center">Ingredients</h3>
 - 1/4c. dry raspberry leaves

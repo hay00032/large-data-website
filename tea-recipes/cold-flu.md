@@ -5,7 +5,7 @@ title: Colds and Flu
 summary: A remedy to help relieve symptoms of cold and flu
 category: recipe
 ---
-<img src="/img/teacups5.png" class="img-resize">
+<img src="{{site.baseurl}}/img/teacups5.png" class="img-resize">
 
 <h3 class="recipe-center">Ingredients</h3>
 - 1oz Blackberry leaves

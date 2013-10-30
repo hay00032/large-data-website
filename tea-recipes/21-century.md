@@ -6,7 +6,7 @@ summary: A recipe for the 21st century immune system
 category: recipe
 ---
 
-<img src="/img/teacups1.png" class="img-resize">
+<img src="{{site.baseurl}}/img/teacups1.png" class="img-resize">
 
 <h3 class="recipe-center">Ingredients</h3>
 - 1 part red clover blossoms

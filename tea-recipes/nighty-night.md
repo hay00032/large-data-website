@@ -5,7 +5,7 @@ title: Nighty-Night Tea
 summary: Calming, comforting & flavourful for late night relaxation
 category: recipe
 ---
-<img src="/img/teacups6.png" class="img-resize">
+<img src="{{site.baseurl}}/img/teacups6.png" class="img-resize">
 
 <h3 class="recipe-center">Ingredients</h3>
  - chamomile flowers

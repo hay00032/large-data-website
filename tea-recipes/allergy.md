@@ -6,7 +6,7 @@ summary: Cool minty, citrus flavors for associated discomforts with allergies.
 category: recipe
 ---
 
-<img src="/img/teacups2.png" class="img-resize">
+<img src="{{site.baseurl}}/img/teacups2.png" class="img-resize">
 
 <h3 class="recipe-center">Ingredients</h3>
 - 1 part nettle

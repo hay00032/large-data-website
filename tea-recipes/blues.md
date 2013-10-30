@@ -5,7 +5,7 @@ title: Blues Tea
 summary: When you're feeling down, this tea will give you the boost of energy you need
 category: recipe
 ---
-<img src="/img/teacups3.png" class="img-resize">
+<img src="{{site.baseurl}}/img/teacups3.png" class="img-resize">
 
 <h3 class="recipe-center">Ingredients</h3>
 - 1 part nettle leaves
