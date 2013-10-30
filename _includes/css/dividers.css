@@ -20,7 +20,18 @@
 }
 
 .v-divider{
+	background-image: url(..img/v-divider.png);
 	margin: 0 0.5em;
 	height: 100%;
 	padding: 0;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .grid-lines {
+    background-image: url("../img/v-divider.png"), url("../img/v-divider.png");
+    background-repeat: no-repeat;
+    background-position: 33.2% top, 66.5% top;
+  }
+
 }

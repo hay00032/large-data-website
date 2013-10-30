@@ -1,13 +1,13 @@
 ---
 layout: default
-image: http://placehold.it/120x120
+image: teacups8.png
 title: Sweet & Spicy Tea
 summary: A recipe for the senses. Perfect for anytime of year
 category: recipe
 ---
-![Sweet & Spicy](http://placehold.it/200x200)
+<img src="/img/teacups8.png" class="img-resize">
 
-<h3>Ingredients</h3>
+<h3 class="recipe-center">Ingredients</h3>
 - 1/2c. dried lemon verbena
 - 1/4c. dried chamomile flowers
 - 1/4c. dried orange mint
@@ -16,9 +16,9 @@ category: recipe
 - 1/4 cinnamon stick
 - 1 Tbsp dried stevia
 
-<h3>Directions</h3>
-1. Combine above ingredients and store in an airtight bag or tin
-2. Pour 1 cup simmering water over 1 tsp of mix.
-3. Let steep for 5 minutes
-4. Strain
-4. Serve hot or chilled
+<h3 class="recipe-center">Directions</h3>
+- 1. Combine above ingredients and store in an airtight bag or tin
+- 2. Pour 1 cup simmering water over 1 tsp of mix.
+- 3. Let steep for 5 minutes
+- 4. Strain
+- 5. Serve hot or chilled

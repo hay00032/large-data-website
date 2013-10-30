@@ -29,5 +29,10 @@
 }
 
 .i-nav{
+	display: inline-block;
 	background-image: url("../img/mobile-icon.png");
+
 }
+
+
+

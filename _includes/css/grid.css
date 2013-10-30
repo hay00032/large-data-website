@@ -135,9 +135,5 @@
   .unit-spacer-sides {
     padding: 0 12px;
   }
-  .grid-lines {
-    background-image: url("../img/v-divider.png"), url("../img/v-divider.png");
-    background-repeat: no-repeat;
-    background-position: 33.2% top, 66.5% top;
-  }
+
 }

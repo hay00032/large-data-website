@@ -15,7 +15,7 @@ a{
 	-moz-transition: all 100ms linear;
 	-webkit-transition: all 100ms linear;
 	transition: all 100ms linear;
-	color:#56646F;
+	color:#64af0a;
 	font-size: 13pt;
 	text-decoration: none;
 	font-weight: bold;
@@ -24,15 +24,15 @@ a{
 a:hover,
 a:focus{
 	text-decoration: underline;
-	color: #000;
+	color: #79db03;
 }
 
 a:active{
-	color:#976609;
+	color:#508c08;
 }
 
 a:visited{
-	color: #9805a8;
+	color: #56646F;
 }
 
 
