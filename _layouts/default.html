@@ -40,12 +40,15 @@
             <li><a href="{{site.baseurl}}/recipes.html" class="nav-link nav-primary-link">Recipes</a></li>
           </ul>
       </div>
-      <div class="icon i-32 i-nav list-group unit-m-hidden unit-l-hidden">
-          <ul class="mobile-nav">
-            <!--<li><a href="{{site.baseurl}}/about.html" rel="" class="nav-link nav-primary-link">About</a></li>
-            <li><a href="{{site.baseurl}}/health.html" class="nav-link nav-primary-link">Health</a></li>
-            <li><a href="{{site.baseurl}}/recipes.html" class="nav-link nav-primary-link">Recipes</a></li>-->
-          </ul>
+      <div class="nav-group unit-m-hidden unit-l-hidden">
+          <a href="#nav" class="nav-btn"><i class="nav__icon nav__icon--open"></i><i class="nav__icon nav__icon--close"></i></a>
+              <nav data-state="collapsed" class="nav nav--top">
+                <ul>
+                  <li class=:"nav__current"><a href="{{site.baseurl}}/about.html"><mark>About</mark></a></li>
+                  <li><a href="{{site.baseurl}}/health.html" class="nav-link nav-primary-link">Health</a></li>
+                  <li><a href="{{site.baseurl}}/recipes.html" class="nav-link nav-primary-link">Recipes</a></li>
+                </ul>
+              </nav>
       </div>
     </nav>
   <div class="divider-trim-top"></div>
@@ -57,5 +60,8 @@
     <p class="copyright">© 2013 creativi-TEA</p>
   </footer>
 
+  <script src="js/$.min.js"></script>
+  <script src="js/nav.js"></script>
+  <script src="js/image.js"></script>
 </body>
 </html>
