@@ -7,7 +7,7 @@ category: recipe
 ---
 <img src="{{site.baseurl}}/img/teacups6.png" class="img-resize">
 
-<h3 class="recipe-center">Ingredients</h3>
+<h2 class="recipe-center">Ingredients</h2>
  - chamomile flowers
  - pineapple sage flowers
  - pineapple sage leaves
@@ -16,7 +16,7 @@ category: recipe
  - grated orange peel
  - rose hips
 
-<h3 class="recipe-center">Directions</h3>
+<h2 class="recipe-center">Directions</h2>
 - 1. Combine above ingredients
 - 2. Pour 1 cup simmering water over 1 tsp dried or 1 Tbs. fresh tea herb mix.
 - 3. Let steep for 5 minutes

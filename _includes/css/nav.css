@@ -1,18 +1,20 @@
 nav{
 	list-style-type: none;
+  font-size: 25px;
 }
+
 
 ul{
 	padding: 0;
 	text-align: center;
 	list-style-type: none;
+  font-family: Helvetica, sans-serif;
 }
 
 nav li{
 	display: inline;
 	margin: 0 17px;
-	font-size: 1.3em;
-	font-family: georgia, serif;
+  font-family: 'Pompiere', cursive;
 	text-transform: uppercase;
 }
 

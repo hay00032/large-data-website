@@ -8,7 +8,7 @@ category: recipe
 
 <img src="{{site.baseurl}}/img/teacups2.png" class="img-resize">
 
-<h3 class="recipe-center">Ingredients</h3>
+<h2 class="recipe-center">Ingredients</h2>
 - 1 part nettle
 - 1 part peppermint
 - 1 spearmint
@@ -21,7 +21,7 @@ category: recipe
 - 1 part fennel seeds
 - a pinch of stevia
 
-<h3 class="recipe-center">Directions</h3>
+<h2 class="recipe-center">Directions</h2>
 - 1. Place herbs in seal tight bag or tin
 - 2. pour boiling water over 1 Tsp of blend
 - 2. Allow mixture to steep for 10 minutes

@@ -7,7 +7,7 @@ category: recipe
 ---
 <img src="{{site.baseurl}}/img/teacups3.png" class="img-resize">
 
-<h3 class="recipe-center">Ingredients</h3>
+<h2 class="recipe-center">Ingredients</h2>
 - 1 part nettle leaves
 - 1 part St.Johns wort tops
 - 2 spearmint
@@ -15,8 +15,8 @@ category: recipe
 - 1 part kava kava root
 - a pinch of stevia for taste
 
-<h3 class="recipe-center">Directions</h3>
-- 1. Place herbs in seal tight bag or tin
+<h2 class="recipe-center">Directions</h2>
+- 1. Plac2herbs in seal tight bag or tin
 - 2. pour boiling water over 1 Tsp of blend
 - 3. Allow mixture to steep for 10 minutes
 - 4. Strain.

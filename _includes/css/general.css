@@ -16,7 +16,6 @@ a{
 	-webkit-transition: all 100ms linear;
 	transition: all 100ms linear;
 	color:#64af0a;
-	font-size: 13pt;
 	text-decoration: none;
 	font-weight: bold;
 }
@@ -40,7 +39,6 @@ body{
 	margin: 0;
 	padding: 0;
 	background-color: #fff;
-	font-family: Georgia, serif;
 	color: #56646F;
 	margin: 0 auto;
 }
@@ -86,30 +84,28 @@ header{
 	display: block;
 }
 
+h2{
+	font-size: 30px;
+	font-family: 'Pompiere', cursive;
+	margin: 0;
+}
+
 h3{
+	font-family: 'Pompiere', cursive;
 	text-transform: uppercase;
 }
 
 p{
+	font-family: Helvetica, sans-serif;
 	color: #56646F;;
 }
 
-nav{
-	list-style-type: none;
-}
-
-ul{
-	padding: 0;
-	text-align: center;
-	list-style-type: none;
-}
-
-nav li{
-	display: inline;
-	margin: 0 17px;
-	font-size: 1.3em;
-	font-family: georgia, serif;
+.page-title{
+	font-family: 'Pompiere', cursive;
+	letter-spacing: 5px;
+	font-size: 35px;
 	text-transform: uppercase;
+	margin:0;
 }
 
 .flex-img{
@@ -119,10 +115,6 @@ nav li{
 .back{
 	float: right;
 	margin-right: 2em;
-}
-
-.footer{
-
 }
 
 .copyright{

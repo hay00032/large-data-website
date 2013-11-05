@@ -8,7 +8,7 @@ category: recipe
 
 <img src="{{site.baseurl}}/img/teacups1.png" class="img-resize">
 
-<h3 class="recipe-center">Ingredients</h3>
+<h2 class="recipe-center">Ingredients</h2>
 - 1 part red clover blossoms
 - 1 part nettle leaves
 - 1 part pau d'Arco
@@ -16,7 +16,7 @@ category: recipe
 - 1 part St.Johns wort tops
 - 1 part ginger root
 
-<h3 class="recipe-center">Directions</h3>
+<h2 class="recipe-center">Directions</h2>
 
 - 1. Place herbs in seal tight bag or tin.
 - 2. pour boiling water over 1 Tsp of blend.

@@ -7,13 +7,13 @@ category: recipe
 ---
 <img src="{{site.baseurl}}/img/teacups5.png" class="img-resize">
 
-<h3 class="recipe-center">Ingredients</h3>
+<h2 class="recipe-center">Ingredients</h2>
 - 1oz Blackberry leaves
 - 1oz Elder flowers
 - 1oz Linden flowers
 - 1oz Peppermint leaves
 
-<h3 class="recipe-center">Directions</h3>
+<h2 class="recipe-center">Directions</h2>
 - 1. Place herbs in seal tight bag or tin
 - 2. pour 1 cuip boiling water over 2 Tbsp of mixture
 - 2. Allow mixture to steep for 10 minutes

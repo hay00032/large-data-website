@@ -7,7 +7,7 @@ category: recipe
 ---
 <img src="{{site.baseurl}}/img/teacups8.png" class="img-resize">
 
-<h3 class="recipe-center">Ingredients</h3>
+<h2 class="recipe-center">Ingredients</h2>
 - 1/2c. dried lemon verbena
 - 1/4c. dried chamomile flowers
 - 1/4c. dried orange mint
@@ -16,7 +16,7 @@ category: recipe
 - 1/4 cinnamon stick
 - 1 Tbsp dried stevia
 
-<h3 class="recipe-center">Directions</h3>
+<h2 class="recipe-center">Directions</h2>
 - 1. Combine above ingredients and store in an airtight bag or tin
 - 2. Pour 1 cup simmering water over 1 tsp of mix.
 - 3. Let steep for 5 minutes

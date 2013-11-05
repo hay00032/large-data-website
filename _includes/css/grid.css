@@ -52,6 +52,11 @@
   .unit-spacer-sides-s {
     padding: 0 4px;
   }
+
+  .img-s{
+    max-width: 70%;
+}
+
 }
 @media only screen and (min-width: 38em) and (max-width: 60em) {
   .unit-m-hidden {
@@ -92,6 +97,10 @@
   .unit-spacer-sides-m {
     padding: 0 8px;
   }
+
+  .img-m{
+    max-width: 100%;
+}
 
 }
 @media only screen and (min-width: 60em) {
@@ -135,5 +144,8 @@
   .unit-spacer-sides {
     padding: 0 12px;
   }
+  .img-l{
+    max-width: 70%;
+}
 
 }
