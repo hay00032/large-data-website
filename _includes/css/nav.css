@@ -25,7 +25,7 @@ nav li{
 .nav-btn,
 .nav-btn:link,
 .nav-btn:visited {
-  bottom: 0;
+  top: -30px;
   padding: 0;
   position: absolute;
   right: 0;
@@ -38,6 +38,7 @@ nav li{
   color:#56646F;
   font-size: 0.875rem;
 }
+
 .nav-btn:hover,
 .nav-btn:focus,
 .nav-btn:active {
@@ -94,12 +95,13 @@ nav li{
 }
 .nav > ul {
   margin: 0;
-  padding: 8px 0;
+  padding: 6px 0;
   background-color: #fff;
   list-style-type: none;
   font-size: 1.125em;
   font-weight: bold;
 }
+
 .nav mark {
   background-color: transparent;
   color: inherit;
@@ -113,7 +115,7 @@ nav li{
 .nav a:link,
 .nav a:visited {
   display: block;
-  padding: 0.5em 46px 0.5em 10px;
+  padding: 0.5em 10px 0.5em 10px;
   position: relative;
   border: 0;
   color: #56646f;
@@ -158,16 +160,15 @@ nav li{
   margin: 0;
   overflow: hidden;
   padding: 0;
-  position: absolute;
+  /*position: absolute;*/
   right: 0;
-  width: 11.4em;
   z-index: 1000;
   -ms-transition: max-height 200ms linear;
   -moz-transition: max-height 200ms linear;
   -o-transition: max-height 200ms linear;
   -webkit-transition: max-height 200ms linear;
   transition: max-height 200ms linear;
-  text-align: right;
+  text-align: center;
 }
 .nav--top li:first-child {
   margin-top: 8px;
