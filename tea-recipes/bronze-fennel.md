@@ -5,7 +5,7 @@ title: Bronze Fennel Tea
 summary: Helps the appetite and stimulates digestion
 category: recipe
 ---
-<img src="{{site.baseurl}}/img/teacups4.png" class="img-resize">
+<img src="{{site.baseurl}}/img/teacups4-4.png" class="img-resize">
 
 <h2 class="recipe-center">Ingredients</h2>
 - 1 tsp. crushed bronze fennel seeds

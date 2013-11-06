@@ -83,6 +83,9 @@ header{
 .list-group-item{
 	display: block;
 }
+.lemon{
+	max-width: 50%;
+}
 
 h2{
 	font-size: 30px;
