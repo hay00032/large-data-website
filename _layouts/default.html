@@ -24,15 +24,20 @@
   <link href="{{site.baseurl}}/css/herbal-tea.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Pompiere' rel='stylesheet' type='text/css'>
 </head>
-<body>
-<header>
+<body role="top">
+<ul class="skiplinks">
+  <li><a href="#main">Skip to primary content</a></li>
+  <li><a href="#complementary">Skip to secondary content</a></li>
+  <li><a href="#navigation">Skip to navigation</a></li>
+</ul>
+<header role="banner">
     <a href="{{site.baseurl}}/index.html">
       <img src="{{site.baseurl}}/img/logo.png" class="flex-img" rel="Home"></a>
     </a>
   </div>
 </header>
   <div class="unit-s-hidden single-line"></div>
-      <nav>
+      <nav role="navigation" id="navigation">
         <div class="unit unit-s-hidden unit-m-1 unit-l-1">
           <ul>
             <li><a href="{{site.baseurl}}/about.html" rel="" class="nav-link nav-primary-link">About</a></li>
@@ -55,9 +60,10 @@
 
   {{content}}
 
-  <footer class="footer">
+  <footer role="contentinfo" class="footer">
   <div class="single-line"></div>
     <p class="copyright">© 2013 creativi-TEA</p>
+    <a href="#Top">Top</a>
   </footer>
 
   <script src="{{site.baseurl}}/js/$.min.js"></script>

@@ -1,0 +1,46 @@
+.skiplinks{
+	margin:0;
+	padding: 0;
+	position: absolute;
+	z-index: 3000;
+	width: 100%;
+
+	font-weight: bold;
+	font-size: 1.25rem;
+	list-style-type: none;
+
+}
+
+.skiplinks a,
+.skiplinks a:link,
+.skiplinks a:visited{
+	display: inline-block;
+	background-color: #000;
+	position: absolute;
+	top: -10em;
+
+	color: #fff;
+	text-decoration: none;
+}
+
+.skiplinks a:focus{
+	top:0;
+}
+
+a,
+a:link,
+a:visited{
+	outline: none; /* Removes the keyboard selection highlight */
+}
+
+a:hover,
+a:active{
+	outline: none; /* Removes the keyboard selection highlight */
+}
+
+a:focus{
+	outline: 2px solid #000;
+}
+
+
+
