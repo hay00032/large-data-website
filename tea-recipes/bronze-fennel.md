@@ -1,6 +1,6 @@
 ---
 layout: default
-image: teacups4.png
+image: teacups4-4.png
 title: Bronze Fennel Tea
 summary: Helps the appetite and stimulates digestion
 category: recipe

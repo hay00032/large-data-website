@@ -1,6 +1,6 @@
 ---
 layout: default
-image: teacups1.png
+image: teacups1-1.png
 title: 21st Century Tea
 summary: A recipe for the 21st century immune system
 category: recipe

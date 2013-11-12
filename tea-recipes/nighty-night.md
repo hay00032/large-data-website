@@ -1,6 +1,6 @@
 ---
 layout: default
-image: teacups6.png
+image: teacups6-6.png
 title: Nighty-Night Tea
 summary: Calming, comforting & flavourful for late night relaxation
 category: recipe

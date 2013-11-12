@@ -1,6 +1,6 @@
 ---
 layout: default
-image: teacups7.png
+image: teacups7-7.png
 title: Raspberry Tea
 summary: Raspberry Tea with the energy effects of a black tea
 category: recipe

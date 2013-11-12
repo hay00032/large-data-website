@@ -1,6 +1,6 @@
 ---
 layout: default
-image: teacups8.png
+image: teacups8-8.png
 title: Sweet & Spicy Tea
 summary: A recipe for the senses. Perfect for anytime of year
 category: recipe
