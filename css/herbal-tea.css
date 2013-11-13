@@ -2,6 +2,7 @@
 
 ---
 
+{% include css/normalize.css %}
 {% include css/general.css %}
 {% include css/grid.css %}
 {% include css/icons.css %}
@@ -12,3 +13,4 @@
 {% include css/recipe.css %}
 {% include css/nav.css %}
 {% include css/accessibility.css %}
+

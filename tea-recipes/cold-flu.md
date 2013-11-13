@@ -1,6 +1,6 @@
 ---
 layout: default
-image: teacups5-5.png
+image: teacups5.png
 title: Colds and Flu
 summary: A remedy to help relieve symptoms of cold and flu
 category: recipe

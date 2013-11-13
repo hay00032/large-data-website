@@ -1,6 +1,6 @@
 ---
 layout: default
-image: teacups3-3.png
+image: teacups3.png
 title: Blues Tea
 summary: When you're feeling down, this tea will give you the boost of energy you need
 category: recipe

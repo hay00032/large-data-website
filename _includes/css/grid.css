@@ -50,11 +50,11 @@
     visibility: hidden;
 }
   .unit-spacer-sides-s {
-    padding: 0 4px;
+    padding: 0 30px;
   }
 
   .img-s{
-    max-width: 70%;
+    max-width: 80%;
 }
 
 }
@@ -95,7 +95,7 @@
     padding: 8px;
   }
   .unit-spacer-sides-m {
-    padding: 0 8px;
+    padding: 0 15px;
   }
 
   .img-m{
@@ -142,7 +142,7 @@
     margin-right: -12px;
   }
   .unit-spacer-sides {
-    padding: 0 12px;
+    padding: 0 30px;
   }
   .img-l{
     max-width: 70%;

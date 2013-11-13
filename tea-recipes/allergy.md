@@ -1,6 +1,6 @@
 ---
 layout: default
-image: teacups2-2.png
+image: teacups2.png
 title: Allergy Season Tea
 summary: Cool minty, citrus flavors for associated discomforts with allergies.
 category: recipe
