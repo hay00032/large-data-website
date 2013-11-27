@@ -21,9 +21,9 @@
   padding: 8px;
 }
 
-.logo-text-s-hidden{
-  display: none;
-  visibility: hidden;
+  .logo-text-s-hidden{
+    display: none;
+    visibility: hidden;
 }
 
 @media only screen and (max-width: 38em) {
@@ -87,6 +87,8 @@
   }
   .logo-text-m{
     margin: 7em;
+    display: block;
+    visibility: visible;
   }
   .logo-text-m-hidden{
     display: none;
@@ -137,6 +139,8 @@
   .logo-text-l{
     margin: 10em;
     text-align: center;
+    display: block;
+    visibility: visible;
   }
   .grid-outdent {
     margin-left: -12px;
