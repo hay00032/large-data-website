@@ -20,12 +20,7 @@
 
 @media only screen and (min-width: 38em) and (max-width: 60em) {
 
-.v-divider{
-	height: 265px;
-	width: 6px;
-	margin-top: -12px;
-	padding-top: 0;
-}
+
 
 }
 
@@ -37,11 +32,5 @@
 }
 
 
-.v-divider{
-	height: 325px;
-	width: 6px;
-	margin-top: -12px;
-	padding-top: 0;
-}
 
 }

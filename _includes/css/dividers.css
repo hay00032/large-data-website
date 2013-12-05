@@ -26,6 +26,26 @@
 	padding: 0;
 }
 
+
+
+@media only screen and (min-width: 38em) and (max-width: 60em) {
+
+	.dotted-divider{
+	background-image: url(../img/dotted-divider.png);
+	margin-bottom: 1.5em;
+	padding: 0;
+	height: 10px;
+
+	}
+
+	.v-divider{
+	height: 265px;
+	width: 6px;
+	margin-top: -12px;
+	padding-top: 0;
+}
+}
+
 @media only screen and (min-width: 60em) {
 
   .grid-lines {
@@ -33,5 +53,12 @@
     background-repeat: no-repeat;
     background-position: 33.2% top, 66.5% top;
   }
+
+  .v-divider{
+	height: 325px;
+	width: 6px;
+	margin-top: -12px;
+	padding-top: 0;
+}
 
 }
